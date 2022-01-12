@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  width: 1240px;
+  margin: 15px auto 15px;
+}
+
+.content {
+  display: block;
+  width: 980px;
+}

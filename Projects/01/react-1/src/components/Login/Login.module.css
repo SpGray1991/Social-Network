@@ -1,0 +1,45 @@
+.active {
+  color: goldenrod;
+}
+
+.dialogs {
+  display: flex;
+}
+
+.dialog_items {
+  width: 300px;
+}
+
+.post {
+  display: block;
+  color: darkslategrey;
+  font-size: 30px;
+}
+
+.btn {
+  display: block;
+  width: 120px;
+  height: 40px;
+  padding-left: 20px;
+  margin-top: 15px;
+  /* margin-left: 730px; */
+  background-color: limegreen;
+  border: none;
+  color: blanchedalmond;
+  text-align: left;
+  font-size: 12pt;
+  cursor: pointer;
+}
+
+.input {
+  line-height: 1.5em;
+  border-radius: 4px;
+  padding: 4px 6px;
+  display: block;
+  box-sizing: border-box;
+}
+
+.error {
+  color: red;
+  font-weight: 700px;
+}

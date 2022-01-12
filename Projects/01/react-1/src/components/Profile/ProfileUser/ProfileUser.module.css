@@ -1,0 +1,18 @@
+.bg_top {
+  display: block;
+  height: 200px;
+  margin-bottom: 20px;
+  background: url("https://www.favoristyle.com.ua/images/portfolio/135161.jpg")
+    center center/cover no-repeat;
+}
+
+.avatar {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+}
+
+.about_user {
+  display: inline-block;
+  margin-left: 30px;
+}

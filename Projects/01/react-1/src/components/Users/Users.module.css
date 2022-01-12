@@ -1,0 +1,22 @@
+.user {
+  display: flex;
+}
+
+.avatar {
+  display: block;
+  width: 100px;
+  max-width: 100%;
+  height: auto;
+}
+
+.button {
+  display: block;
+}
+
+.page {
+  cursor: pointer;
+}
+
+.selectedPage {
+  font-weight: bold;
+}

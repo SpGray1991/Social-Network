@@ -1,0 +1,44 @@
+.active {
+  color: goldenrod;
+}
+
+.dialogs {
+  display: flex;
+}
+
+.dialog_items {
+  width: 300px;
+}
+
+.post {
+  display: block;
+  color: darkslategrey;
+  font-size: 30px;
+}
+
+.btn {
+  display: block;
+  width: 120px;
+  height: 40px;
+  padding-left: 20px;
+  margin-top: 15px;
+  margin-left: 730px;
+  background-color: limegreen;
+  border: none;
+  color: blanchedalmond;
+  text-align: left;
+  font-size: 12pt;
+}
+
+textarea {
+  display: block;
+  width: 850px;
+  height: 80px;
+  resize: vertical;
+  outline: none;
+  border: none;
+  background-color: lightgrey;
+  font-size: 18pt;
+  text-align: left;
+  color: black;
+}
